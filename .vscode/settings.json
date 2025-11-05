@@ -1,0 +1,7 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=build"
+    ],
+
+    "clangd.path": "/nix/store/0bmw5wnwf9zc8wdwyd20mg470ki46dgh-clang-tools-19.1.7/bin/clangd"
+}
