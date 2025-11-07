@@ -69,3 +69,4 @@ pythonenv*
 /lldb/docs/python_api/
 *.out
 .direnv
+.direnv/bin
